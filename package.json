@@ -12,6 +12,7 @@
   "dependencies": {
     "chalk": "^2.4.2",
     "opencv": "github:peterbraden/node-opencv",
+    "serialport": "^7.1.5",
     "socket.io-client": "^2.2.0"
   },
   "devDependencies": {
